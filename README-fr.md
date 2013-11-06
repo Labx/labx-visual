@@ -1,5 +1,6 @@
 Labx-visual
 ===========
+![Logo LabX](https://raw.github.com/Labx/labx-visual/master/logo/logo-labx-bordeaux.png)
 
 Logo et autres visuels utilisé pour la communication du [LabX](http://www.labx.fr/).
 
